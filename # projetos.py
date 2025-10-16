@@ -1,3 +1,5 @@
 # projetos 
 print ('Aluguel de Carros')
-nome = ('Informe o seu nome')
+
+nome = input('Informe o seu nome')
+idade = int(input('Informe sua idade')) 
